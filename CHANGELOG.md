@@ -1,3 +1,33 @@
+#### 2.0.1 (2019-03-27)
+
+##### Bug Fixes
+
+* **commitlint:**  fixed problem with husky and commitlint (6cab9fe3)
+
+#### 2.0.1 (2019-03-27)
+
+##### Bug Fixes
+
+* **commitlint:**  fixed problem with husky and commitlint (6cab9fe3)
+
+#### 2.0.1 (2019-03-27)
+
+##### Bug Fixes
+
+* **commitlint:**  fixed problem with husky and commitlint (6cab9fe3)
+
+#### 2.0.1 (2019-03-27)
+
+##### Bug Fixes
+
+* **commitlint:**  fixed problem with husky and commitlint (6cab9fe3)
+
+#### 2.0.1 (2019-03-27)
+
+##### Bug Fixes
+
+* **commitlint:**  fixed problem with husky and commitlint (6cab9fe3)
+
 ## 2.0.0 (2019-03-27)
 
 ##### Chores
