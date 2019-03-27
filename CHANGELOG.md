@@ -1,3 +1,9 @@
+## 2.0.0 (2019-03-27)
+
+##### Chores
+
+* **readme:**  Added correct readme text (90909438)
+
 #### 1.3.1 (2019-03-27)
 
 ##### Chores
