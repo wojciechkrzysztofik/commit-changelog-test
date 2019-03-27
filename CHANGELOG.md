@@ -1,3 +1,9 @@
+### 1.3.0 (2019-03-27)
+
+##### Chores
+
+* **readme:**  updated readme file (f8ce48b6)
+
 ### 1.2.0 (2019-03-27)
 
 ##### New Features
