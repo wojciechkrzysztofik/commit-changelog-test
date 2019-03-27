@@ -9,13 +9,13 @@
     "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'Regenerate CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
     "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'Regenerate CHANGELOG.md' && npm version patch && git push origin && git push origin --tags"
   },
-  "author": "",
-  "license": "ISC",
   "husky": {
     "hooks": {
       "pre-commit": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
