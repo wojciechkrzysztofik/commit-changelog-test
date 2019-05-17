@@ -11,4 +11,4 @@
 Changelog and new tag will be generated automatically. 
   
   
-It's configurated on the basis of this [nice article](created on the basis of an example)
+It's configurated on the basis of this article: https://piecioshka.pl/blog/2019/03/23/husky-commitlint-git-changelog.html (created on the basis of an example)
